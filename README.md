@@ -1,7 +1,7 @@
 <!-- Typing intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Advait+👋;AI-integrated+Developer+%7C+DevOps+Explorer;Building+clean%2C+fast+and+smart+projects"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Advait+👋;AI-integrated+Developer+%7C+DevOps+Explorer;Building+clean%2C+fast+and+smart+projects"
     alt="Advait typing intro"
   />
 </p>
@@ -15,11 +15,8 @@ Hi, I'm **Advait** — a student and **AI-integrated developer** who likes build
 - 🧠 I work with **Python**, basic **web tech**, **networking**, **Docker**, **Kubernetes** and **MySQL**
 - ☁️ Comfortable with **deployment**, **self-hosting** and **server management**
 - 🎨 I enjoy designing **minimal UIs** with **Tailwind CSS**
-- 🌱 Currently exploring **AI workflows** + **DevOps** (Docker / k8s / infra)
-- 💬 I like talking about **servers, backend logic, networking and tooling**
-
-> Break it. Fix it. Ship it *better*.
-
+- 🌱 Currently exploring **AI workflows** + **DevOps**
+  
 ---
 
 ## 🛠 Languages & Tools
@@ -41,7 +38,7 @@ Hi, I'm **Advait** — a student and **AI-integrated developer** who likes build
 
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" alt="Photoshop" />
 </p>
 
 ---
